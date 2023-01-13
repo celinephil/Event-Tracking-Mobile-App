@@ -1,4 +1,4 @@
-# CS-360-Mobile-Architect---Programming
+# CS-360-Mobile-Architect-&-Programming
 
 I would like to note that the app remains under construction.
 
