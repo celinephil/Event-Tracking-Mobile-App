@@ -1,7 +1,7 @@
 # Mobile-Architect-&-Programming
 
 ## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-The goal of the event tracking app is to implement code and construct an innovative UI through the IDE, Android Studio. With this app, users can track upcoming or past events. This app was designed to address users of all kinds such as students who want to track their school events or wedding planners with their upcoming weddings. THe requirements of the ap include the CRUD operation where the user can create, read, update, and delete an event or events. Another requirement is the ability to log in or create an account if the user is new. 
+The goal of the event tracking app is to implement code and construct an innovative UI through the IDE, Android Studio. With this app, users can track upcoming or past events. This app was designed to address users of all kinds such as students who want to track their school events or wedding planners with their upcoming weddings. The requirements of the app include the CRUD operation where the user can create, read, update, and delete an event or events. Another requirement is the ability to log in or create an account if the user is new. 
 
 ## What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 The screens in the app include a login, register, and home screen. Features include buttons, swiping methods, and creating or deleting buttons. My UI keeps users in mind by taking into account their perspective and what they would want to see in an event tracking app. 
