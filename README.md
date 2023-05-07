@@ -23,11 +23,7 @@ However, you also know there are further steps that must be completed after the 
 * If the user grants permissions, the application should send alerts to the user as SMS messages. The alerts correspond to the specific notification trigger of the application you chose (low inventory, an upcoming event, or reaching a goal weight).
 * If the user denies permission, then the rest of the application should still continue to function without the SMS messaging notification feature.
 
-* Employ industry standard best practices such as in-line comments and appropriate naming conventions to enhance readability of code. This should be evident throughout all of the code you create for this project and will be assessed comprehensively. Some things to ask yourself as you code are:
-... Have I kept my classes concise?
-...* Is my style consistent throughout the code?
-...* Would my naming conventions make sense to anyone else who looked at my code?
-...* Do my in-line comments contain enough useful information?
+* Employ industry standard best practices such as in-line comments and appropriate naming conventions to enhance readability of code.
 
 ## Reflection :pencil2:	
 
