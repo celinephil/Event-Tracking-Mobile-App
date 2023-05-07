@@ -12,22 +12,22 @@ However, you also know there are further steps that must be completed after the 
 
 ## Funtionality
 
-The app should check the username and password against the database when the user attempts to log in.
-If the user has never logged into the application before, the user should be able to create a new login and password. The application needs to save these to a table in the database.
+* The app should check the username and password against the database when the user attempts to log in.
+* If the user has never logged into the application before, the user should be able to create a new login and password. The application needs to save these to a table in the database.
 
-Create: The user should be able to add items to a database.
-Delete: The user should be able to remove items from a database.
-Update: The user should be able to change the value associated with individual database items (e.g. the number of a specific item in an inventory or the date of an event).
-Read: The user should be able to view all of the database items displayed as a grid.
+* Create: The user should be able to add items to a database.
+* Delete: The user should be able to remove items from a database.
+* Update: The user should be able to change the value associated with individual database items (e.g. the number of a specific item in an inventory or the date of an event).
+* Read: The user should be able to view all of the database items displayed as a grid.
 
-If the user grants permissions, the application should send alerts to the user as SMS messages. The alerts correspond to the specific notification trigger of the application you chose (low inventory, an upcoming event, or reaching a goal weight).
-If the user denies permission, then the rest of the application should still continue to function without the SMS messaging notification feature.
+* If the user grants permissions, the application should send alerts to the user as SMS messages. The alerts correspond to the specific notification trigger of the application you chose (low inventory, an upcoming event, or reaching a goal weight).
+* If the user denies permission, then the rest of the application should still continue to function without the SMS messaging notification feature.
 
-Employ industry standard best practices such as in-line comments and appropriate naming conventions to enhance readability of code. This should be evident throughout all of the code you create for this project and will be assessed comprehensively. Some things to ask yourself as you code are:
-Have I kept my classes concise?
-Is my style consistent throughout the code?
-Would my naming conventions make sense to anyone else who looked at my code?
-Do my in-line comments contain enough useful information?
+* Employ industry standard best practices such as in-line comments and appropriate naming conventions to enhance readability of code. This should be evident throughout all of the code you create for this project and will be assessed comprehensively. Some things to ask yourself as you code are:
+...* Have I kept my classes concise?
+...* Is my style consistent throughout the code?
+...* Would my naming conventions make sense to anyone else who looked at my code?
+...* Do my in-line comments contain enough useful information?
 
 ## Reflection :pencil2:	
 
