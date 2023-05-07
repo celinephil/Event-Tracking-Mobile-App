@@ -35,6 +35,8 @@ I was able to approach the process of coding my app by utilizing readings, onlin
 
 I was particularly successful in the login and register components. I probably jumped in happiness after getting my code to run in the way that I had wanted it to. I also think the UI of most of the xml layouts came out aesthetically pleasing especially when keeping the user stories in mind. The spacing with the texts and buttons shows my skill and knowledge I gained throughout this course. 
 
+Overall, I think it was more fun than stressful! I had a great time learning something new and Android Studio really helped open that door. Since this was my first time constructing and editing elements in a mobile development, it was interesting to see how it is for many mobile app developers who had to go through the phase that I went through. We all start somewhere and I’m glad that I am slowly but surely gaining practice, insight, knowledge, and experience in the mobile app development process.  
+
 ## App Screenshots :camera_flash:
 
 <div style="text-align: center;">
