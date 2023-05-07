@@ -8,6 +8,6 @@ I was able to approach the process of coding my app by utilizing readings, onlin
 
 I was particularly successful in the login and register components. I probably jumped in happiness after getting my code to run in the way that I had wanted it to. I also think the UI of most of the xml layouts came out aesthetically pleasing especially when keeping the user stories in mind. The spacing with the texts and buttons shows my skill and knowledge I gained throughout this course. 
 
-![LoginScreenApp](https://user-images.githubusercontent.com/88872392/236702663-5e6fd81d-01f3-46ce-b795-9c9d160a8f03.png)
+![LoginScreenApp](https://user-images.githubusercontent.com/88872392/236702663-5e6fd81d-01f3-46ce-b795-9c9d160a8f03.png | width=100)
 ![CalendarScreenApp](https://user-images.githubusercontent.com/88872392/236702691-6ae41fdc-0c4a-4be0-98c4-8b0b46c3323c.png)
 ![NotificationsScreenApp](https://user-images.githubusercontent.com/88872392/236702695-99b9289c-1130-4be9-bbd3-e3e14141c717.png)
