@@ -18,4 +18,4 @@ I was particularly successful in the login and register components. I probably j
 ![NotificationsScreenApp](https://user-images.githubusercontent.com/88872392/236702813-e04bee9d-6275-4534-94a4-9ceeca088984.png)
 
 ---
-[Updated May 2023 by Celine Philachanh]
+*[Updated May 2023 by Celine Philachanh]*
