@@ -10,7 +10,7 @@ Your app UI design has been received positively by the client, which means you a
 
 However, you also know there are further steps that must be completed after the coding in order for the app to be made widely available. To support your client with this part of the process, you will need to create a recommended launch plan that details how to successfully reach the client’s intended users.
 
-## Funtionality
+## App Code Design Functionality
 
 * The app should check the username and password against the database when the user attempts to log in.
 * If the user has never logged into the application before, the user should be able to create a new login and password. The application needs to save these to a table in the database.
