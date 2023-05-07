@@ -10,6 +10,6 @@ I was particularly successful in the login and register components. I probably j
 
 ![LoginScreenApp](https://user-images.githubusercontent.com/88872392/236702663-5e6fd81d-01f3-46ce-b795-9c9d160a8f03.png)
 
-![CalendarScreenApp](https://user-images.githubusercontent.com/88872392/236702691-6ae41fdc-0c4a-4be0-98c4-8b0b46c3323c.png)
+![CalendarScreenApp](https://user-images.githubusercontent.com/88872392/236702812-84ea26a1-bb9e-43a2-8d81-05c9d9a155f3.png)
 
-![NotificationsScreenApp](https://user-images.githubusercontent.com/88872392/236702695-99b9289c-1130-4be9-bbd3-e3e14141c717.png)
+![NotificationsScreenApp](https://user-images.githubusercontent.com/88872392/236702813-e04bee9d-6275-4534-94a4-9ceeca088984.png)
