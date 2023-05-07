@@ -1,6 +1,6 @@
 # Event Tracking App - Android Mobile Application
 
-> ### Overview
+ ### Overview
 > Applied mobile development principles and best practices to develop a mobile application using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, I conducted security, product assuredness, and compatibility checks before launching the application.
 
 ## Reflection
