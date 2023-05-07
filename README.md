@@ -1,6 +1,6 @@
 # Event Tracking App - Android Mobile Application
 
-[![Generic badge](https://img.shields.io/badge/Development_Tool-Android_Studio-red.svg)](https://developer.android.com/studio/) [![Generic badge](https://img.shields.io/badge/Language-JAVA-19-blue.svg)](https://isocpp.org/) [![Generic badge](https://img.shields.io/badge/Database-SQLite-green.svg)](https://sqlite.org/index.html) [![Generic badge](https://img.shields.io/badge/IDE-Android_Studio-purple.svg)](https://developer.android.com/studio/) [![Generic badge](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
+[![Generic badge](https://img.shields.io/badge/Development_Tool-Android_Studio-red.svg)](https://developer.android.com/studio/) [![Generic badge](https://img.shields.io/badge/Language-JAVA-blue.svg)](https://isocpp.org/) [![Generic badge](https://img.shields.io/badge/Database-SQLite-green.svg)](https://sqlite.org/index.html) [![Generic badge](https://img.shields.io/badge/IDE-Android_Studio-purple.svg)](https://developer.android.com/studio/) [![Generic badge](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
 
 ## Overview
 > Applied mobile development principles and best practices to develop a mobile application using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, I conducted security, product assuredness, and compatibility checks before launching the application.
