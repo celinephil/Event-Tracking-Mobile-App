@@ -16,3 +16,6 @@ I was particularly successful in the login and register components. I probably j
 ![CalendarScreenApp](https://user-images.githubusercontent.com/88872392/236702812-84ea26a1-bb9e-43a2-8d81-05c9d9a155f3.png)
 
 ![NotificationsScreenApp](https://user-images.githubusercontent.com/88872392/236702813-e04bee9d-6275-4534-94a4-9ceeca088984.png)
+
+---
+[Updated May 2023 by Celine Philachanh]
