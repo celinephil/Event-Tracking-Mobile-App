@@ -19,8 +19,8 @@ I was particularly successful in the login and register components. I probably j
 
 <div style="text-align: center;">
     <img src="Event Tracking App Screenshots/LoginScreenApp.png" width="400px" />
-    <img src="screenshots/RegisterActivity.png" width="400px" />
-    <img src="screenshots/ForgotPass_AlertDialog.png" width="400px" />
+    <img src="Event Tracking App Screenshots/CalendarScreenApp.png" width="400px" />
+    <img src="Event Tracking App Screenshots/NotificationsScreenApp.png" width="400px" />
 </div>
 
 ---
