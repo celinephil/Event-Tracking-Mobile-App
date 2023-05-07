@@ -1,7 +1,7 @@
 # Mobile Architect & Programming
 
 ### Overview
-Applied mobile development principles and best practices to develop a mobile application using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, I conducted security, product assuredness, and compatibility checks before launching the application.
+> Applied mobile development principles and best practices to develop a mobile application using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, I conducted security, product assuredness, and compatibility checks before launching the application.
 
 The goal of the event tracking app is to implement code and construct an innovative UI through the Android Studio IDE. With this app, users can track upcoming or past events. This app was designed to address users of all kinds such as students who want to track school events or wedding planners with upcoming weddings. The requirements of the app include the CRUD operation where the user has the ability to create, read, update, and delete an event(s). Another requirement is the ability to log in or create an account if the user is new. 
 
