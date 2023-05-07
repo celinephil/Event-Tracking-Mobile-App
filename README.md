@@ -6,8 +6,7 @@
 > Applied mobile development principles and best practices to develop a mobile application using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, I conducted security, product assuredness, and compatibility checks before launching the application.
 
 ## Scenario
-> Scenario
-Your app UI design has been received positively by the client, which means you are now ready to proceed to the final stages of the development process. The client is eager to see the completed product ready for launch. To make this happen, you know that most of your time will need to be spent creating functional, error-free code that will run the app.
+> Your app UI design has been received positively by the client, which means you are now ready to proceed to the final stages of the development process. The client is eager to see the completed product ready for launch. To make this happen, you know that most of your time will need to be spent creating functional, error-free code that will run the app.
 However, you also know there are further steps that must be completed after the coding in order for the app to be made widely available. To support your client with this part of the process, you will need to create a recommended launch plan that details how to successfully reach the client’s intended users.
 
 ## Reflection :pencil2:	
