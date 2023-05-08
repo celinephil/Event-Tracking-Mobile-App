@@ -40,9 +40,11 @@ Overall, I think it was more fun than stressful! I had a great time learning som
 ## App Screenshots :camera_flash:
 
 <div style="text-align: center;">
-    <img src="Event Tracking App Screenshots/LoginScreenApp.png" width="400px" />
-    <img src="Event Tracking App Screenshots/CalendarScreenApp.png" width="400px" />
-    <img src="Event Tracking App Screenshots/NotificationsScreenApp.png" width="400px" />
+    <img src="App Screenshots/Login Screen.png" width="400px" />
+    <img src="App Screenshots/Register Screen.png" width="400px" />
+    <img src="App Screenshots/Main Activity Screen.png" width="400px" />
+    <img src="App Screenshots/New Event Screen.png" width="400px" />
+    <img src="App Screenshots/Notification Screen.png" width="400px" />
 </div>
 
 ---
