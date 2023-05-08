@@ -8,9 +8,14 @@
 > Applied mobile development principles and best practices to develop a mobile application using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, I conducted security, product assuredness, and compatibility checks before launching the application.
 
 ## Scenario :memo:
-Your app UI design has been received positively by the client, which means you are now ready to proceed to the final stages of the development process. The client is eager to see the completed product ready for launch. To make this happen, you know that most of your time will need to be spent creating functional, error-free code that will run the app.
+This application will be used to track the dates and times of upcoming events. This application must include the following:
 
-However, you also know there are further steps that must be completed after the coding in order for the app to be made widely available. To support your client with this part of the process, you will need to create a recommended launch plan that details how to successfully reach the client’s intended users.
+A database with at least two tables, one to store the event details and one to store user logins and passwords
+A screen for logging into the app. Note that this should also be used to create a login if the user has never logged in before.
+A screen, with a grid, that displays all upcoming events
+A mechanism by which the user can add and remove events from the database
+A mechanism by which the user can enter the time and general information of a specific event
+A mechanism by which the application will notify the user on the day that an event has been scheduled
 
 ## App Code Design Functionality :bulb:	
 
