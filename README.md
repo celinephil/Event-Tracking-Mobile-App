@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Language-JAVA-blue.svg)](https://www.java.com/en/) [![Generic badge](https://img.shields.io/badge/Database-SQLite-green.svg)](https://sqlite.org/index.html) [![Generic badge](https://img.shields.io/badge/IDE-Android_Studio-purple.svg)](https://developer.android.com/studio/)
 
-:warning: CURRENTLY UNDER CONSTRUCTION :warning:
+:warning: CURRENTLY UNDER CONSTRUCTION FOR A MORE ENHANCED EXPERIENCE :warning:
 
 ## Overview
 > Applied mobile development principles and best practices to develop a mobile application using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, I conducted security, product assuredness, and compatibility checks before launching the application.
