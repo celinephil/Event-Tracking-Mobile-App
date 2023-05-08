@@ -21,15 +21,12 @@ This application will be used to track the dates and times of upcoming events. T
 
 - The app should check the username and password against the database when the user attempts to log in.
 - If the user has never logged into the application before, the user should be able to create a new login and password. The application needs to save these to a table in the database.
-
 - Create: The user should be able to add items to a database.
 - Delete: The user should be able to remove items from a database.
 - Update: The user should be able to change the value associated with individual database items (e.g. the number of a specific item in an inventory or the date of an event).
 - Read: The user should be able to view all of the database items displayed as a grid.
-
 - If the user grants permissions, the application should send alerts to the user as SMS messages. The alerts correspond to the specific notification trigger of the application you chose (low inventory, an upcoming event, or reaching a goal weight).
 - If the user denies permission, then the rest of the application should still continue to function without the SMS messaging notification feature.
-
 - Employ industry standard best practices such as in-line comments and appropriate naming conventions to enhance readability of code.
 
 ## Reflection :pencil2:	
