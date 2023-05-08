@@ -10,12 +10,12 @@
 ## Scenario :memo:
 This application will be used to track the dates and times of upcoming events. This application must include the following:
 
-A database with at least two tables, one to store the event details and one to store user logins and passwords
-A screen for logging into the app. Note that this should also be used to create a login if the user has never logged in before.
-A screen, with a grid, that displays all upcoming events
-A mechanism by which the user can add and remove events from the database
-A mechanism by which the user can enter the time and general information of a specific event
-A mechanism by which the application will notify the user on the day that an event has been scheduled
+- A database with at least two tables, one to store the event details and one to store user logins and passwords
+- A screen for logging into the app. Note that this should also be used to create a login if the user has never logged in before.
+- A screen, with a grid, that displays all upcoming events
+- A mechanism by which the user can add and remove events from the database
+- A mechanism by which the user can enter the time and general information of a specific event
+- A mechanism by which the application will notify the user on the day that an event has been scheduled
 
 ## App Code Design Functionality :bulb:	
 
