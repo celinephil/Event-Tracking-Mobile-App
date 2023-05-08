@@ -1,4 +1,4 @@
-# Event Tracking App :date: - Android Mobile Application	
+# Event Tracking App :date:
 
 [![Generic badge](https://img.shields.io/badge/Language-JAVA-orange.svg)](https://www.java.com/en/) [![Generic badge](https://img.shields.io/badge/Database-SQLite-green.svg)](https://sqlite.org/index.html) [![Generic badge](https://img.shields.io/badge/IDE-Android_Studio-purple.svg)](https://developer.android.com/studio/)
 
