@@ -1,9 +1,16 @@
-# Event Tracking App :date:
+<h1 align="center">
+    <br>
+    Event Tracking App :date:
+</h1>
 
+<div align="center">
+ 
 [![License badge](https://img.shields.io/badge/License-MIT-red.svg?style=for-the-badge&logo=github)](LICENSE "GitHub MIT License") [![Generic badge](https://img.shields.io/badge/Language-JAVA-orange.svg)](https://www.java.com/en/) [![Generic badge](https://img.shields.io/badge/Database-SQLite-green.svg)](https://sqlite.org/index.html) [![Generic badge](https://img.shields.io/badge/IDE-Android_Studio-purple.svg)](https://developer.android.com/studio/)
 
 :warning: APP IS CURRENTLY UNDER CONSTRUCTION FOR IMPROVEMENTS TO ENHANCE USER EXPERIENCE :) :warning:
 
+ </div>
+ 
 ## Competency
 > Applied mobile development principles and best practices to develop a mobile application using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, I conducted security, product assuredness, and compatibility checks before launching the application.
 
