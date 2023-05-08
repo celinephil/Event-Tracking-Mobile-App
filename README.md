@@ -8,7 +8,7 @@
 > Applied mobile development principles and best practices to develop a mobile application using user-centered design principles and industry standards. Upon completion of a fully-functional mobile application, I conducted security, product assuredness, and compatibility checks before launching the application.
 
 ## Scenario :memo:
-This application will be used to track the dates and times of upcoming events. This application must include the following:
+You have recently been hired as the newest member of the mobile application development team for the Mobile2App Company. Every week, your team meets to discuss the latest client projects that have been sent in and to assign the work. There are three available projects that both you and the rest of the team feel would be a good fit for your expertise. This means you may select which application you would like to work on. Your options are an inventory app, an event tracking app, and a weight tracking app. For the event tracking application, it will be used to track the dates and times of upcoming events. This application must include the following:
 
 - A database with at least two tables, one to store the event details and one to store user logins and passwords
 - A screen for logging into the app. Note that this should also be used to create a login if the user has never logged in before.
